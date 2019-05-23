@@ -7,7 +7,6 @@ Obj/
 UnityGenerated/
 Library/
 Assets/AssetStoreTools/*
-⁨Assets⁩/⁨Plugins⁩/⁨iOS/
 
 
 # ===================================== #
@@ -37,3 +36,4 @@ ExportedObj/
 Icon?
 ehthumbs.db
 Thumbs.db
+Assets/Plugins/iOS/JitsiMeet.framework
